@@ -1,0 +1,578 @@
+﻿Log file open, 02/13/18 15:38:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VincennesVR
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1055575137) SRandInit(-1055575137).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.161313
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.13-14.38.42:378][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-14.38.42:378][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.13-14.38.42:391][  0]LogInit: Computer: DESKTOP-Q46ESH1
+[2018.02.13-14.38.42:391][  0]LogInit: User: lpmn
+[2018.02.13-14.38.42:391][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.13-14.38.42:391][  0]LogInit: High frequency timer resolution =3.604930 MHz
+[2018.02.13-14.38.42:391][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.13-14.38.42:391][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.13-14.38.42:391][  0]LogMemory: Process Physical Memory: 275.78 MB used, 275.78 MB peak
+[2018.02.13-14.38.42:391][  0]LogMemory: Process Virtual Memory: 271.79 MB used, 271.79 MB peak
+[2018.02.13-14.38.42:391][  0]LogMemory: Physical Memory: 5820.58 MB used,  10485.53 MB free, 16306.11 MB total
+[2018.02.13-14.38.42:391][  0]LogMemory: Virtual Memory: 680.13 MB used,  10485.53 MB free, 134217728.00 MB total
+[2018.02.13-14.38.42:498][  0]LogInit: Using OS detected language (fr-FR).
+[2018.02.13-14.38.42:498][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.02.13-14.38.42:502][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.02.13-14.38.42:502][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.02.13-14.38.42:910][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.13-14.38.43:151][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.13-14.38.43:187][  0]LogD3D11RHI:    0. 'NVIDIA NVS 315' (Feature Level 11_0)
+[2018.02.13-14.38.43:187][  0]LogD3D11RHI:       969/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.13-14.38.43:226][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.02.13-14.38.43:226][  0]LogD3D11RHI:       8079/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.02.13-14.38.43:228][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.13-14.38.43:228][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.13-14.38.43:228][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.13-14.38.43:236][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.13-14.38.43:236][  0]LogD3D11RHI:     GPU DeviceId: 0x107c (for the marketing name, search the web for "GPU Device Id")
+[2018.02.13-14.38.43:236][  0]LogWindows: EnumDisplayDevices:
+[2018.02.13-14.38.43:236][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.13-14.38.43:236][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.13-14.38.43:236][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.13-14.38.43:236][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.13-14.38.43:237][  0]LogWindows:    4. 'NVIDIA NVS 315' (P:1 D:1)
+[2018.02.13-14.38.43:237][  0]LogWindows:    5. 'NVIDIA NVS 315' (P:0 D:0)
+[2018.02.13-14.38.43:237][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.13-14.38.43:237][  0]LogD3D11RHI:     Adapter Name: NVIDIA NVS 315
+[2018.02.13-14.38.43:237][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.13-14.38.43:237][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.13-14.38.43:237][  0]LogRHI: Texture pool is 678 MB (70% of 969 MB)
+[2018.02.13-14.38.43:301][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.02.13-14.38.43:301][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.13-14.38.43:320][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.13-14.38.43:323][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Intermediate/Shaders/WorkingDirectory/6448/).
+[2018.02.13-14.38.43:323][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lpmn/AppData/Local/Temp/UnrealShaderWorkingDir/FA27BD4544EDFD610B9783A095BD4A14/'.
+[2018.02.13-14.38.43:323][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.13-14.38.44:296][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.13-14.38.44:338][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.13-14.38.44:379][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.13-14.38.44:419][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.13-14.38.44:461][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.13-14.38.44:505][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.13-14.38.44:548][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.13-14.38.44:590][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.13-14.38.44:626][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.13-14.38.44:668][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.13-14.38.44:709][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.13-14.38.44:752][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.13-14.38.44:792][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.13-14.38.44:833][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.13-14.38.44:922][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.13-14.38.44:922][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.13-14.38.44:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.13-14.38.44:993][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.13-14.38.45:069][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.13-14.38.45:090][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.13-14.38.45:129][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.13-14.38.45:171][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.13-14.38.45:212][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.13-14.38.45:255][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.13-14.38.45:255][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.13-14.38.45:600][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.13-14.38.45:685][  0]LogDerivedDataCache: Loaded boot cache 0.09s 92MB C:/Users/lpmn/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-14.38.45:685][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lpmn/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.13-14.38.45:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.13-14.38.45:685][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.13-14.38.45:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.13-14.38.45:686][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.13-14.38.45:703][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.13-14.38.45:715][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lpmn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.13-14.38.45:725][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.13-14.38.45:726][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.13-14.38.45:726][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-14.38.45:726][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-14.38.46:081][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-14.38.46:345][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.13-14.38.46:375][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.13-14.38.46:375][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.13-14.38.46:375][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.13-14.38.46:375][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.13-14.38.46:375][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.13-14.38.46:395][  0]LogNetVersion: VincennesVR , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 49217572)
+[2018.02.13-14.38.46:533][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.02.13-14.38.46:944][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.034100 seconds
+[2018.02.13-14.38.46:950][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.02.13-14.38.46:950][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.02.13-14.38.46:950][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.13-14.38.46:987][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.13-14.38.49:236][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.13-14.38.49:271][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.13-14.38.49:801][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.13-14.38.50:146][  0]SourceControl: Source control is disabled
+[2018.02.13-14.38.50:146][  0]SourceControl: Source control is disabled
+[2018.02.13-14.38.50:187][  0]SourceControl: Source control is disabled
+[2018.02.13-14.38.50:228][  0]SourceControl: Source control is disabled
+[2018.02.13-14.38.50:862][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.13-14.38.51:068][  0]LogOcInput: OculusInput pre-init called
+[2018.02.13-14.38.51:298][  0]LogEngine: Initializing Engine...
+[2018.02.13-14.38.51:334][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-8FEBDE93
+[2018.02.13-14.38.51:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.13-14.38.51:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.13-14.38.51:637][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.13-14.38.51:650][  0]LogInit: XAudio2 using 'Haut-parleurs (2- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-14.38.51:664][  0]LogInit: FAudioDevice initialized.
+[2018.02.13-14.38.51:747][  0]LogDerivedDataCache: Saved boot cache 0.08s 92MB C:/Users/lpmn/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-14.38.51:769][  0]LogInit: Texture streaming: Enabled
+[2018.02.13-14.38.51:839][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.13-14.38.51:942][  0]LogInit: Transaction tracking system initialized
+[2018.02.13-14.38.52:178][  0]BlueprintLog: New page: Editor Load
+[2018.02.13-14.38.52:846][  0]LocalizationService: Localization service is disabled
+[2018.02.13-14.38.53:404][  0]LogConsoleResponse: Display: 
+[2018.02.13-14.38.53:550][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.13-14.38.53:550][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.13-14.38.53:551][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.13-14.38.54:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Content/' took 0.01s
+[2018.02.13-14.38.54:457][  0]SourceControl: Source control is disabled
+[2018.02.13-14.38.54:457][  0]Cmd: MAP LOAD FILE="C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-14.38.54:458][  0]LightingResults: New page: Lighting Build
+[2018.02.13-14.38.54:489][  0]MapCheck: New page: Map Check
+[2018.02.13-14.38.54:489][  0]LightingResults: New page: Lighting Build
+[2018.02.13-14.38.54:586][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.02.13-14.38.54:594][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-14.38.54:604][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-14.38.54:649][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.695ms to complete.
+[2018.02.13-14.38.54:649][  0]LogFileHelpers: Loading map 'StartupMap' took 0.191
+[2018.02.13-14.38.54:703][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.13-14.38.54:778][  0]LogCollectionManager: Loaded 0 collections in 0.000939 seconds
+[2018.02.13-14.38.54:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Saved/Collections/' took 0.01s
+[2018.02.13-14.38.54:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Content/Developers/lpmn/Collections/' took 0.01s
+[2018.02.13-14.38.54:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Content/Collections/' took 0.01s
+[2018.02.13-14.38.54:847][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.13-14.38.54:855][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2363 classes and 519 folders.
+[2018.02.13-14.38.54:902][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.13-14.38.54:936][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.13-14.38.54:969][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.13-14.38.54:985][  0]LogSlate: Took 0.000550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-14.38.54:987][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.13-14.38.54:993][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.13-14.38.55:087][  0]LogRenderer: Reallocating scene render targets to support 976x556 Format 26 NumSamples 1 (Frame:1).
+[2018.02.13-14.38.55:326][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.13-14.38.55:326][  0]LogLoad: (Engine Initialization) Total time: 14.85 seconds
+[2018.02.13-14.38.55:326][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.13-14.38.55:327][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.13-14.38.55:354][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.13-14.38.55:391][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-14.38.55:407][  1]LogAssetRegistry: Asset discovery search completed in 8.8970 seconds
+[2018.02.13-14.38.55:408][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.13-14.38.55:409][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.02.13-14.38.59:565][  4]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-14.39.06:787][185]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-14.39.07:067][185]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2018.02.13-14.39.07:090][185]Cmd: MAP LOAD FILE="C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-14.39.07:090][185]LightingResults: New page: Lighting Build
+[2018.02.13-14.39.07:091][185]LoadErrors: New page: Loading map: HMDLocomotionMap.umap
+[2018.02.13-14.39.07:092][185]MapCheck: New page: Map Check
+[2018.02.13-14.39.07:092][185]LightingResults: New page: Lighting Build
+[2018.02.13-14.39.07:105][185]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-14.39.07:138][185]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-14.39.07:185][185]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.259ms to complete.
+[2018.02.13-14.39.07:185][185]LogFileHelpers: Loading map 'HMDLocomotionMap' took 0.095
+[2018.02.13-14.39.12:418][302]LogAIModule: Creating AISystem for world DonjonMap
+[2018.02.13-14.39.12:436][302]Cmd: MAP LOAD FILE="C:/Users/lpmn/Documents/GitHub/PjrVincennes/VincennesVR/Content/VirtualRealityBP/Maps/DonjonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-14.39.12:436][302]LightingResults: New page: Lighting Build
+[2018.02.13-14.39.12:437][302]LoadErrors: New page: Loading map: DonjonMap.umap
+[2018.02.13-14.39.12:437][302]MapCheck: New page: Map Check
+[2018.02.13-14.39.12:437][302]LightingResults: New page: Lighting Build
+[2018.02.13-14.39.12:451][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-14.39.12:489][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-14.39.12:531][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.369ms to complete.
+[2018.02.13-14.39.12:532][302]LogFileHelpers: Loading map 'DonjonMap' took 0.097
+[2018.02.13-14.39.17:415][384]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.13-14.39.17:456][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.39.17:457][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-14.39.17:457][384]PIE: New page: PIE session: DonjonMap (Feb 13, 2018, 4:39:17 PM)
+[2018.02.13-14.39.17:457][384]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap
+[2018.02.13-14.39.17:460][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2018.02.13-14.39.17:460][384]LogAIModule: Creating AISystem for world DonjonMap
+[2018.02.13-14.39.17:461][384]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.02.13-14.39.17:461][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap.DonjonMap (0.003752s)
+[2018.02.13-14.39.17:476][384]LogInit: XAudio2 using 'Haut-parleurs (2- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-14.39.17:483][384]LogInit: FAudioDevice initialized.
+[2018.02.13-14.39.17:531][384]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.13-14.39.17:531][384]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-14.39.17:534][384]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap.DonjonMap up for play (max tick rate 0) at 2018.02.13-15.39.17
+[2018.02.13-14.39.17:534][384]LogWorld: Bringing up level for play took: 0.001603
+[2018.02.13-14.39.17:563][384]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.13-14.39.17:569][384]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap 0.876
+[2018.02.13-14.39.17:570][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.39.17:619][384]LogRenderer: Reallocating scene render targets to support 1292x756 Format 26 NumSamples 1 (Frame:1).
+[2018.02.13-14.39.25:923][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.39.25:973][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.39.28:399][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.39.28:399][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-14.39.28:399][584]PIE: New page: PIE session: DonjonMap (Feb 13, 2018, 4:39:28 PM)
+[2018.02.13-14.39.28:399][584]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap
+[2018.02.13-14.39.28:402][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003113s)
+[2018.02.13-14.39.28:403][584]LogAIModule: Creating AISystem for world DonjonMap
+[2018.02.13-14.39.28:403][584]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2018.02.13-14.39.28:403][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap.DonjonMap (0.004020s)
+[2018.02.13-14.39.28:419][584]LogInit: XAudio2 using 'Haut-parleurs (2- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-14.39.28:425][584]LogInit: FAudioDevice initialized.
+[2018.02.13-14.39.28:503][584]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.13-14.39.28:503][584]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-14.39.28:504][584]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap.DonjonMap up for play (max tick rate 0) at 2018.02.13-15.39.28
+[2018.02.13-14.39.28:505][584]LogWorld: Bringing up level for play took: 0.001369
+[2018.02.13-14.39.28:512][584]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap -0.181
+[2018.02.13-14.39.28:512][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.39.28:612][585]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1).
+[2018.02.13-14.39.28:637][585]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.28:643][587]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:015][588]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:027][589]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:165][590]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:308][591]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:527][592]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:561][593]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:697][594]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:811][595]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.29:921][596]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:037][597]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:152][598]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:266][599]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:384][600]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:500][601]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:615][602]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:760][603]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:875][604]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.30:988][605]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:104][606]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:220][607]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:337][608]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:451][609]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:565][610]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:679][611]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:793][612]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.31:907][613]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:019][614]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:132][615]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:244][616]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:357][617]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:471][618]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:585][619]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:702][620]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:818][621]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.32:932][622]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:047][623]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:162][624]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:277][625]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:393][626]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:508][627]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:623][628]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:738][629]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:854][630]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.33:969][631]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:084][632]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:200][633]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:309][634]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:426][635]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:540][636]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:654][637]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:768][638]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:882][639]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.34:992][640]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:109][641]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:224][642]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:338][643]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:452][644]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:567][645]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:681][646]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:796][647]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.35:911][648]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:025][649]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:139][650]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:254][651]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:369][652]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:482][653]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:593][654]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:709][655]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:825][656]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.36:941][657]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.37:056][658]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.37:171][659]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.37:285][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.39.37:288][659]LogHMD: Warning:  SteamVR Compositor had an error on present (104)
+[2018.02.13-14.39.37:571][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.41.46:964][ 92]LogTemp: Repeating last play command: VR Preview
+[2018.02.13-14.41.47:015][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap:PersistentLevel.DonjonMap'
+[2018.02.13-14.41.47:015][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-14.41.47:016][ 92]PIE: New page: PIE session: DonjonMap (Feb 13, 2018, 4:41:47 PM)
+[2018.02.13-14.41.47:016][ 92]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap
+[2018.02.13-14.41.47:024][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008225s)
+[2018.02.13-14.41.47:025][ 92]LogAIModule: Creating AISystem for world DonjonMap
+[2018.02.13-14.41.47:026][ 92]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2018.02.13-14.41.47:026][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DonjonMap.DonjonMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap.DonjonMap (0.010081s)
+[2018.02.13-14.41.47:050][ 92]LogInit: XAudio2 using 'Haut-parleurs (2- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-14.41.47:062][ 92]LogInit: FAudioDevice initialized.
+[2018.02.13-14.41.49:112][ 92]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-8FEBDE93
+[2018.02.13-14.41.49:157][ 92]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.13-14.41.49:157][ 92]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-14.41.49:159][ 92]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DonjonMap.DonjonMap up for play (max tick rate 0) at 2018.02.13-15.41.49
+[2018.02.13-14.41.49:159][ 92]LogWorld: Bringing up level for play took: 0.002183
+[2018.02.13-14.41.49:162][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.13-14.41.49:162][ 92]LogOutputDevice: Warning: 
+
+Script Stack:
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2018.02.13-14.41.49:635][ 92]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.474 s
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: 
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: Stack: 
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EC2C2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EC06123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EC07B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EC061651 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2E52F9B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D37CDE63 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D3805F84 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EB9A5264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB69B74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB7FA41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB81B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB6A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB81B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB6A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB81B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EB9A5264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB80F66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2F3E64B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2EFF79B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2F0CAEB UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2F3A30A UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2F1A0B3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:648][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D36539B9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2F747D6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EB9A5264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB69B74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB7FA41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBBA8B04 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB81B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB6A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB81B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EB9A5264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000EBB80F66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2F3E64B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2EFF79B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D2F0CAEB UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D4105790 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D365DAC1 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D40F06AE UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D36804CE UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D09DB235 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D0A0556E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D0A2192F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D0476024 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x00000000D0D24AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x0000000057C05A26 UE4Editor.exe!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x0000000057C15430 UE4Editor.exe!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x0000000057C154AA UE4Editor.exe!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x0000000057C22379 UE4Editor.exe!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x0000000057C23D57 UE4Editor.exe!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x0000000028B21FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: [Callstack] 0x000000002A76EFB1 ntdll.dll!UnknownFunction []
+[2018.02.13-14.41.49:649][ 92]LogOutputDevice: Error: 
+[2018.02.13-14.41.49:652][ 92]LogStats:                SubmitErrorReport -  0.000 s
